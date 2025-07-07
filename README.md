@@ -1,2 +1,10 @@
-# Fake-News-Detector
-📰 Fake News Detector | My First ML Project This is my first machine learning project — a Fake News Detector built using Python and trained in a Jupyter Notebook. It classifies news articles as real or fake based on their content using basic NLP and ML techniques.  🔧 Note: The model is still under development.
+# 📰 Fake News Detector - My First Machine Learning Project
+
+Welcome to my first machine learning project! This is a Fake News Detector built using Python and trained in a Jupyter Notebook. It uses Natural Language Processing (NLP) techniques to classify news articles as real or fake.
+
+> ⚠️ Note: This project is a work in progress. The current model has a lower accuracy, but I am actively working on improving it with better preprocessing and model tuning.
+
+
+
+
+
